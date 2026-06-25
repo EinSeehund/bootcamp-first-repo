@@ -47,3 +47,27 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 |---|---|:---:|---:|---:|
 | A | B | C | D | E |
 | F | G | H | I | J |
+
+## Quotes
+
+Don't know what I'll be using them for but apparently...
+
+> everbody else does
+
+## Horizontal rule
+
+I 
+---
+use
+---
+them
+---
+a 
+--- 
+lot
+---
+
+
+
+
+
